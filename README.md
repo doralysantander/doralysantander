@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doraly Santander Chamorro</h1>
 <h3 align="center">A passionate frontend developer from Nariño</h3>
 
-- 🔭 I’m currently studying on **Educamás**
+- 🔭 I’m currently studying at **Educamás**
 
 - 🌱 I’m currently learning **React Django Laravel**
 
