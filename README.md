@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Any project**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-three-kappa-46.vercel.app/](https://portfolio-three-kappa-46.vercel.app/)
-
 - 💬 Ask me about **Html Css Tailwind React**
 
 - 📫 How to reach me **doraly9110@hotmail.com**
