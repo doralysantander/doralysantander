@@ -1,4 +1,4 @@
-![Agregar un título (3)](https://user-images.githubusercontent.com/86391179/166183079-c517f3ca-f5cc-4329-aa34-753c62050cd3.png)
+![Agregar un título (4)](https://user-images.githubusercontent.com/86391179/166183474-e26a9413-9c37-4c24-a482-3570ef9d8671.png)
 
 <h3 align="center">A passionate frontend developer from Nariño</h3>
 
