@@ -1,5 +1,5 @@
-![Agregar un título](https://user-images.githubusercontent.com/86391179/166182548-c909f1ce-1d39-41a3-89a5-089f7d8e5554.png)
-<h1 align="center">Hi 👋, I'm Doraly Santander Chamorro</h1>
+![Agregar un título (3)](https://user-images.githubusercontent.com/86391179/166183079-c517f3ca-f5cc-4329-aa34-753c62050cd3.png)
+
 <h3 align="center">A passionate frontend developer from Nariño</h3>
 
 - 🔭 I’m currently studying at **Educamás**
