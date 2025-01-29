@@ -1,18 +1,19 @@
-# 👋 ¡Hola, soy Doraly Santander!
-## 🚀 Desarrolladora Web | Frontend & Backend 
-### Acerca de mi 
-Soy Desarrolladora Web Full satck, me encanta asumir nuevos retos
-<h3 align="center">A passionate web developer</h3>
+# 👋👩‍💻 ¡Hola, soy Doraly Santander!
+## 🚀 Acerca de mí  
 
-- 🔭 I’m currently studying at **Educamás**
+👩‍💻 **Desarrolladora Web Full Stack** apasionada por la tecnología y la innovación. Me encanta asumir **nuevos retos** y convertirlos en oportunidades para seguir creciendo. 🌱  
 
-- 🌱 I’m currently learning **React Django Laravel**
+💡 Disfruto creando soluciones digitales eficientes, optimizando código y explorando nuevas tecnologías. Cada proyecto es un desafío emocionante y una oportunidad para aprender algo nuevo. 🎯  
 
-- 👯 I’m looking to collaborate on **Yours Projects**
+🛠️ Mi enfoque es construir experiencias digitales sólidas con tecnologías modernas como **JavaScript, React, Node.js y Python**.  
 
-- 🤝 I’m looking for help with **Any project**
+📌 **Mi filosofía:** _"El código no solo debe funcionar, también debe inspirar."_ ✨  
 
-- 💬 Ask me about **Html Css Tailwind React**
+📚 Siempre estoy aprendiendo algo nuevo y compartiendo mis conocimientos con la comunidad. ¿Hablamos? 🚀  
+
+![Challenge Accepted](https://img.shields.io/badge/Reto-Aceptado-brightgreen?style=for-the-badge&logo=github)  
+![Challenge Accepted](https://img.shields.io/badge/Reto-Aceptado-brightgreen?style=for-the-badge&logo=github)  
+![Challenge Accepted](https://img.shields.io/badge/Reto-Aceptado-brightgreen?style=for-the-badge&logo=github) 
 
 - 📫 How to reach me **doraly9110@hotmail.com**
 
@@ -21,7 +22,7 @@ Soy Desarrolladora Web Full satck, me encanta asumir nuevos retos
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/doraly-santander-chamorro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doraly-santander-chamorro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/doralysantanderchamorro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doraly-santander-chamorro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
