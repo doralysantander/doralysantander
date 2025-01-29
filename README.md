@@ -1,6 +1,6 @@
 ![Agregar un título (4)](https://user-images.githubusercontent.com/86391179/166183474-e26a9413-9c37-4c24-a482-3570ef9d8671.png)
 
-<h3 align="center">A passionate frontend developer from Nariño</h3>
+<h3 align="center">A passionate web developer from Nariño</h3>
 
 - 🔭 I’m currently studying at **Educamás**
 
