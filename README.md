@@ -18,13 +18,23 @@
 
 <img align='right' src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" width="400">
 <br>
+<h3 align="left">🚀 mi trayectoria </h3>
+Cuento con experiencia desarrollando proyectos reales, he consolidado mi experiencia no solo en programación y optimización de aplicaciones, sino también en áreas críticas como la ciberseguridad y la automatización de servicios en la nube (python, java)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacto:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/doralysantanderchamorro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doraly-santander-chamorro" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/doralysantanderchamorro" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doralysantanderchamorro" height="30" width="40" />
+  </a>
+  <a href="mailto:doralysantander0@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail-icon" height="30" width="30" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a> 
