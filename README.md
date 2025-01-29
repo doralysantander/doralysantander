@@ -15,9 +15,6 @@
 ![Challenge Accepted](https://img.shields.io/badge/Reto-Aceptado-brightgreen?style=for-the-badge&logo=github)  
 ![Challenge Accepted](https://img.shields.io/badge/Reto-Aceptado-brightgreen?style=for-the-badge&logo=github) 
 
-
-<img align='right' src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" width="400">
-<br>
 <h3 align="left">🚀 mi trayectoria </h3>
 Cuento con experiencia desarrollando proyectos reales, he consolidado mi experiencia no solo en programación y optimización de aplicaciones, sino también en áreas críticas como la ciberseguridad y la automatización de servicios en la nube (python, java)
 
@@ -31,8 +28,6 @@ Cuento con experiencia desarrollando proyectos reales, he consolidado mi experie
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail-icon" height="30" width="30" />
   </a>
 </p>
-
-
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
