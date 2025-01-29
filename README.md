@@ -1,6 +1,8 @@
-
-
-<h3 align="center">A passionate web developer from Nariño</h3>
+# 👋 ¡Hola, soy Doraly Santander!
+## 🚀 Desarrolladora Web | Frontend & Backend 
+### Acerca de mi 
+Soy Desarrolladora Web Full satck, me encanta asumir nuevos retos
+<h3 align="center">A passionate web developer</h3>
 
 - 🔭 I’m currently studying at **Educamás**
 
