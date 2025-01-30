@@ -21,7 +21,7 @@ Cuento con experiencia desarrollando proyectos reales, he consolidado mi experie
 <h3 align="left">Contacto:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/doralysantanderchamorro" target="_blank">
+  <a href="https://www.linkedin.com/in/ldoralysantanderch" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doralysantanderchamorro" height="30" width="40" />
   </a>
   <a href="mailto:doralysantander0@gmail.com" target="_blank">
